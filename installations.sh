@@ -16,6 +16,10 @@ brew install update
 brew install sdl;
 brew install update
 
-# Install SDL_misxer lib for Sound Libls
+# Install SDL_mixer lib for Sound Libls
 brew install sdl_mixer;
+brew install update
+
+# Install youtube downloader
+brew install youtube-dl
 brew install update
